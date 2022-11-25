@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leonmotard
+- 👋 Hi, I’m @Leonmotard, Leandro Silva to any other human being reading this. Nice to meet you.
 - 👀 I’m interested in learning more about Java, MySQL, and web development.
 - 🌱 I’m currently learning Java, MySQL.
 - 💞️ I’m looking to collaborate on any proyect that allows me to learn more about software design and development.
