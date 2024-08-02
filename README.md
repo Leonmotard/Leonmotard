@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leonmotard, Leandro Silva to any other human being reading this. Nice to meet you.
-- I´m an advanced student of Information Technologies Technician at Universidad Tecnologica Nacional, Santa Fe city, Argentina.
+- I´m an Information Technologies Technician. I studied at Universidad Tecnologica Nacional, Santa Fe city, Argentina.
 - 👀 I’m interested in learning more about Java, MySQL, and web development.
 - 🌱 I’m currently learning Java, C#, .Net, MySQL, HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on any proyect that allows me to learn more about software design and development.
